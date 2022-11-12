@@ -1,0 +1,112 @@
+{
+  "offline": true,
+  "username": "Era",
+  "locker": {
+    "name": "Era",
+    "character": {
+      "items": [
+        "AthenaCharacter:CID_005_Athena_Commando_M_Default"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "backpack": {
+      "items": [
+        "AthenaBackpack:"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "pickaxe": {
+      "items": [
+        "AthenaPickaxe:DefaultPickaxe"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "glider": {
+      "items": [
+        "AthenaGlider:DefaultGlider"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "contrail": {
+      "items": [
+        "AthenaSkyDiveContrail:"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "music_pack": {
+      "items": [
+        "AthenaMusicPack:"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "loading": {
+      "items": [
+        "AthenaLoadingScreen:"
+      ],
+      "variants": [
+        null
+      ]
+    },
+    "dance": {
+      "items": [
+        "AthenaDance:",
+        "AthenaDance:",
+        "AthenaDance:",
+        "AthenaDance:",
+        "AthenaDance:",
+        "AthenaDance:"
+      ],
+      "variants": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "item_wrap": {
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "variants": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "favourites": [
+  ],
+  "variants": {
+    "AthenaCharacter:cid_030_athena_commando_m_halloween": [
+      {
+        "channel": "ClothingColor",
+        "active": "Mat1",
+        "owned": []
+      }
+    ]
+  }
+}
